@@ -6,4 +6,4 @@ This repo generated from P3TTERX/Actions-OpenWrt.
 Build OpenWrt Firmware with GitHub Actions.
 # Get it
 It will release at Enshan Wireless BBS.
-- URL coming soon...
+- Check it in Enshan BBS (https://www.right.com.cn/forum/thread-5076469-1-1.html)
