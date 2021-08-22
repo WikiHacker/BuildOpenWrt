@@ -10,7 +10,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/Luastonsu/Overclock-LEDE
+  REPO_URL: https://github.com/Luastonsu/Overclocked-OpenWrt
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
