@@ -1,5 +1,5 @@
 # BuildOpenWrt
-Build yourself OpenWrt system with GitHub Actions.
+Build yourself OpenWrt firmware with GitHub Actions.
 # Source
 This repo generated from P3TTERX/Actions-OpenWrt.
 # Release
